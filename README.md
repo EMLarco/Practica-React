@@ -4,7 +4,6 @@ Aplicación web desarrollada como práctica de laboratorio para la asignatura **
 
 ![Vista principal del proyecto](./public/readme/preview.png)
 
-> Coloca una captura bonita de la aplicación en `public/readme/preview.png` para que GitHub la muestre en esta parte del README.
 
 ## Descripción
 
@@ -329,12 +328,4 @@ Build completado correctamente.
 
 Proyecto desarrollado para la asignatura **Programación Integrativa de Componentes Web**.
 
-## Nota para la entrega
 
-Antes de subir a GitHub, agrega una captura en:
-
-```txt
-public/readme/preview.png
-```
-
-La captura recomendada es la página `/personajes`, tomada con el navegador en tamaño amplio para que se vean varias tarjetas. Esa imagen será lo primero que verá el ingeniero al abrir el repositorio.
