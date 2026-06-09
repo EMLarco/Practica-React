@@ -23,40 +23,6 @@ La aplicación permite navegar entre diferentes vistas sin recargar la página, 
 - Carga inicial de datos con `useEffect`.
 - Estructura organizada por `components`, `pages` y `services`.
 
-## Vista previa
-
-Para que el README se vea más profesional en GitHub, se recomienda agregar una captura de pantalla en esta ruta:
-
-```txt
-public/readme/preview.png
-```
-
-### Recomendación para la captura
-
-La mejor captura para impresionar debe ser de la página **Personajes**, porque muestra:
-
-- El diseño completo con `Header`, contenido y `Footer`.
-- Las tarjetas dinámicas de personajes.
-- Imágenes reales cargadas desde la API.
-- Evidencia clara del consumo de datos externo.
-
-También puedes agregar más capturas si deseas:
-
-```txt
-public/readme/inicio.png
-public/readme/nosotros.png
-public/readme/contactos.png
-public/readme/personajes.png
-```
-
-Y luego mostrarlas así:
-
-```md
-![Página Inicio](./public/readme/inicio.png)
-![Página Nosotros](./public/readme/nosotros.png)
-![Página Personajes](./public/readme/personajes.png)
-```
-
 ## Tecnologías utilizadas
 
 | Tecnología | Uso en el proyecto |
