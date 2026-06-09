@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 24px;
+    background-color: #f5f5f5;
+    color: #111;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+nav {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.item-menu {
+    color: #111;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.item-menu:hover {
+    background-color: #eaeaea;
+}
+
+.item-menu:active {
+    transform: scale(0.98);
+}

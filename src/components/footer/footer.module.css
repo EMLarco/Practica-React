@@ -1,0 +1,10 @@
+.footer {
+  padding: 1.2rem clamp(1rem, 4vw, 4rem);
+  text-align: center;
+  color: #cbd5e1;
+  background: #0f172a;
+}
+
+.footer p {
+  margin: 0.2rem 0;
+}

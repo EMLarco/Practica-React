@@ -1,0 +1,28 @@
+.inicio-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.inicio-hero {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.inicio-subtitle {
+  color: #666;
+  font-size: 18px;
+}
+
+.inicio-grid {
+  display: flex;
+  gap: 20px;
+}
+
+.inicio-card {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}

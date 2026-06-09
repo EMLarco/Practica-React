@@ -1,0 +1,28 @@
+.nosotros-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+}
+
+.nosotros-hero {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.nosotros-subtitle {
+  color: #666;
+  font-size: 18px;
+}
+
+.nosotros-grid {
+  display: flex;
+  gap: 20px;
+}
+
+.nosotros-card {
+  flex: 1;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}

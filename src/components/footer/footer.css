@@ -1,0 +1,11 @@
+.footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+    background-color: antiquewhite;
+    color: rgb(0, 0, 0);
+}
+
+.footer-texto {
+    margin: 0;
+}

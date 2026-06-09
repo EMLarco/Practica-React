@@ -1,0 +1,46 @@
+.personajes {
+  display: grid;
+  gap: 2rem;
+}
+
+.encabezado {
+  padding: 2.5rem;
+  border-radius: 24px;
+  color: #ffffff;
+  background: linear-gradient(135deg, #0891b2, #0f172a);
+}
+
+.etiqueta {
+  margin: 0 0 0.75rem;
+  font-weight: 800;
+}
+
+.encabezado h1 {
+  margin: 0 0 0.75rem;
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+.encabezado p {
+  max-width: 720px;
+  margin: 0;
+  line-height: 1.7;
+}
+
+.estado,
+.error {
+  padding: 1rem;
+  border-radius: 14px;
+  background: #ffffff;
+  color: #475569;
+}
+
+.error {
+  color: #b91c1c;
+  background: #fee2e2;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1.2rem;
+}
